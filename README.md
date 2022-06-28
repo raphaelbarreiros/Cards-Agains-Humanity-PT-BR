@@ -10,13 +10,13 @@ Imprimir direto:
 -------------
 Dependencias:
 -------------
-- ImageMagick e Python (developed with python v2.* in mind).
+- ImageMagick e Python (desenvolvido com python v2.* em mente).
 
 ---------------
 Exemplos de uso:
 ---------------
 - ./genCard.py -h
-- ./genCard.py -i icon/icon-tabletop.png -b background/front-white.png -f fonts/HelveticaNeue-Bold.ttf -t "This is the card text" -n "1 / 44" -o custom001.png
+- ./genCard.py -i icon/icon-tabletop.png -b background/front-white.png -f fonts/HelveticaNeue-Bold.ttf -t "Minha carta personalizada" -n "1 / 44" -o custom001.png
 - ./genCard.py -b background/front-white-sloth.png -o slothCard.png
 - ./genCards.py -h
 - ./genCards.py -i
@@ -30,7 +30,7 @@ Gerar expansões do CAH automaticamente:
 - ./retail.py
 - ./tabletop.py
 
-GenCard gera uma única carta, enquanto GenCards gera várias cards usando as intruções do arquivo CSV de entrada.
+GenCard gera uma única carta, enquanto GenCards gera várias cartas usando as intruções do arquivo CSV de entrada.
 Verifique os arquivos no diretório sample/ para obter inspiração sobre como criar um arquivo de entrada para GenCards.
  
 -----
