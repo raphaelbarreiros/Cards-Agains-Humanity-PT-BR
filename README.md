@@ -1,4 +1,5 @@
 Programa em Python que gera cartas do Cards Agains Humanity, traduzido e em alta qualidade para imprimir.
+**Considere ajudar a traduzir as expensões, por favor [colabore aqui](https://crowdin.com/project/cah-pt-br)**
 
 -------------
 Imprimir direto:
